@@ -8,3 +8,7 @@ Using some nifty functions from  [rgerkin](https://github.com/rgerkin), we can h
     [Edit test.ipynb in Jupyter lab]
     ./pyconvert.sh test.ipynb
     python test.py
+
+## Karl's python recipes
+
+Recipes I've found useful when working with python in jupyter notebooks.
